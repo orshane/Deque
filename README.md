@@ -1,5 +1,5 @@
 # Deque
-A deque function for c. This deque header can be used to make fixed size deque.This is useful for games and other purposes. Don't forget to put the library in the include library. 
+A deque function for c. This deque header can be used to make fixed size deque.This is useful for games and other purposes. Don't forget to put the library in the include folder. 
 
 ```                                ===Example Usage===
 #include <stdio.h>
