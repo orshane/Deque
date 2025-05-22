@@ -1,7 +1,7 @@
 # Deque
 A deque function for c. This deque header can be used to make fixed size deque.This is useful for games and other purposes. Don't forget to put the library in the include library. 
 
-                                ===Example Usage===
+```                                ===Example Usage===
 #include <stdio.h>
 #include <deque.h>
 
@@ -22,4 +22,3 @@ for (size_t i = 0; i < deque_size(&d); i++) {
 printf("\n");
    return 0;
 }
-                                  ===End===
