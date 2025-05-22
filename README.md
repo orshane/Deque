@@ -3,7 +3,7 @@ A deque function for c. This deque header can be used to make fixed size deque.T
 
                                 ===Example Usage===
 
-=#include <stdio.h>
+===#include <stdio.h>
 #include <deque.h> //include the library
 
 DECLARE_STACK_DEQUE(int ,deque , 10);  //type,name,capacity
@@ -24,4 +24,4 @@ for (size_t i = 0; i < deque_size(&d); i++) {
 printf("\n");
    return 0;
 }
-=
+===
