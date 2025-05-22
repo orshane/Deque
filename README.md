@@ -1,9 +1,9 @@
 # Deque
 A deque function for c. This deque header can be used to make fixed size deque.This is useful for games and other purposes. Don't forget to put the library in the include library. 
 
-                                ===Example Usage===
+                                ===Example Usage
 
-===#include <stdio.h>===
+#include <stdio.h
 ===#include <deque.h> //include the library===
 
 ===DECLARE_STACK_DEQUE(int ,deque , 10);  //type,name,capacity===
@@ -24,4 +24,5 @@ deque_push_back(&d, 30);
 ===printf("\n");===
 ===   return 0;===
 ===}===
+===
 ===
