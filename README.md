@@ -31,7 +31,7 @@ Snake game using the deque header and raylib
 #include <raymath.h>
 #include <stdbool.h>
 #include <stdlib.h>
-#include "deque.h"
+#include <deque.h>
 
 #define CELL_SIZE 35
 #define CELL_COUNT 20
